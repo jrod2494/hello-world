@@ -1,2 +1,4 @@
 # hello-world
-first time creating a repository in GitHun
+Hello my name is Jhon Rodriguez,
+
+I am a computer science student focusing on full stack development.
